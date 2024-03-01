@@ -13,7 +13,7 @@ int main() {
         for (int j = 0; j < n; ++j)
             cin >> matrix1[i][j];
 
-    // Input second matrix
+    // Input second matrix hi
     vector<vector<int>> matrix2(m, vector<int>(n));
     for (int i = 0; i < m; ++i)
         for (int j = 0; j < n; ++j)
